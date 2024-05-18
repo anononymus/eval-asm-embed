@@ -9,4 +9,5 @@
 ## How to run
 
 Download the pre-trained model from the link- [NER](https://drive.google.com/file/d/1sqBxuujk9yOPcXkQTvONgQlP93qt0EJD/view?usp=sharing)
+Download the pre-trained model from the link- [POS](https://drive.google.com/file/d/1MC7mVOguotsPEnpLiL20ag97O7siMqvU/view?usp=sharing)
 
